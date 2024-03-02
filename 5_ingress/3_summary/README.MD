@@ -1,4 +1,3 @@
-```markdown
 # Summary
 
 In this chapter, we explored the concept of Ingress in Kubernetes and its role in exposing HTTP routes to external clients. Let's recap what we've learned:

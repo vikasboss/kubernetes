@@ -1,4 +1,3 @@
-```markdown
 # Ingress vs. LoadBalancer
 
 In this section, we'll explore the difference between Ingress and LoadBalancer in Kubernetes.

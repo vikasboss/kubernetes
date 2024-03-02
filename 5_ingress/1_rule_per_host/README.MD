@@ -1,4 +1,3 @@
-```markdown
 # Defining Rules per Host
 
 In this section, we'll explore how to serve services on different hosts using Ingress in Kubernetes.

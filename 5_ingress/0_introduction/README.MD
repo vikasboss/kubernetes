@@ -1,4 +1,3 @@
-```markdown
 # Introduction to Ingress
 
 In this chapter, we will explore what Ingress is and how to add an Ingress controller in our Kubernetes cluster.
